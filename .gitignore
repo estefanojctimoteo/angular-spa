@@ -13,6 +13,9 @@
 # txt
 /src/Como Criar Novo Projeto.txt
 
+# log
+debug.log
+
 # profiling files
 chrome-profiler-events*.json
 speed-measure-plugin*.json
